@@ -1,5 +1,0 @@
-<?xml version="1.0" ?>
-<project name="SimpleChestLock" default="build.testing">
-    <property name="boilerplate" value="true"/>
-    <import file="../generic_build.xml"/>
-</project>
